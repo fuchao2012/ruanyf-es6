@@ -1,0 +1,26 @@
+{
+    "name": "ruanyf-es6",
+    "version": "1.0.0",
+    "description": "reading notes for http://es6.ruanyifeng.com/",
+    "main": "index.js",
+    "scripts": {
+        "start": "docsify serve ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fuchao2012/ruanyf-es6.git"
+    },
+    "keywords": [
+        "reading",
+        "notes",
+        "ruanyf",
+        "es6",
+        "docsify"
+    ],
+    "author": "fuchao.zheng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fuchao2012/ruanyf-es6/issues"
+    },
+    "homepage": "https://github.com/fuchao2012/ruanyf-es6#readme"
+}
